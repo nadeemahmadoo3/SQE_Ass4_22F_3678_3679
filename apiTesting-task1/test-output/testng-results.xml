@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-24T17:17:16 PKT" name="Default suite" finished-at="2024-11-24T17:17:27 PKT" duration-ms="11223">
+    <groups>
+    </groups>
+    <test started-at="2024-11-24T17:17:16 PKT" name="Default test" finished-at="2024-11-24T17:17:27 PKT" duration-ms="11223">
+      <class name="com.apiTesting.test.ResourceTests">
+        <test-method signature="testCreateResource(com.apiTesting.model.Resource)[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:16 PKT" name="testCreateResource" data-provider="resourceCreationData" finished-at="2024-11-24T17:17:21 PKT" duration-ms="4619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.apiTesting.model.Resource@451001e5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateResource -->
+        <test-method signature="testCreateResource(com.apiTesting.model.Resource)[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:21 PKT" name="testCreateResource" data-provider="resourceCreationData" finished-at="2024-11-24T17:17:21 PKT" duration-ms="775" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.apiTesting.model.Resource@d48e998]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateResource -->
+        <test-method signature="testCreateResource(com.apiTesting.model.Resource)[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:21 PKT" name="testCreateResource" data-provider="resourceCreationData" finished-at="2024-11-24T17:17:22 PKT" duration-ms="918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.apiTesting.model.Resource@60aec68a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateResource -->
+        <test-method signature="testDeleteResource()[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:22 PKT" name="testDeleteResource" finished-at="2024-11-24T17:17:23 PKT" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteResource -->
+        <test-method signature="testGetResources()[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:23 PKT" name="testGetResources" finished-at="2024-11-24T17:17:24 PKT" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetResources -->
+        <test-method signature="testGetSingleResource()[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:24 PKT" name="testGetSingleResource" finished-at="2024-11-24T17:17:25 PKT" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleResource -->
+        <test-method signature="testUpdateResource()[pri:0, instance:com.apiTesting.test.ResourceTests@4a7f959b]" started-at="2024-11-24T17:17:25 PKT" name="testUpdateResource" finished-at="2024-11-24T17:17:27 PKT" duration-ms="1832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateResource -->
+      </class> <!-- com.apiTesting.test.ResourceTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
